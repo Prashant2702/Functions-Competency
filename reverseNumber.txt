@@ -1,0 +1,6 @@
+...Reversing a number...
+In this program, we are going to print the reverse of a number.
+Here in this  program we can find out the reverse of a number 
+by using the while loop.In this first we declare and intialize reverse,
+and with the help of while loop we can find the reverse of a number.
+

@@ -1,0 +1,7 @@
+...Printing all the prime numbers between 2 given numbers...
+In this program we are  going to print the prime numbers between the 2 given nubers
+we can done this program with the help of the for and the if else  statements.
+we are going to print this with the help of the functions.Here, we call a function
+isPrime() which checks the number is prime or not.the function is defined before the 
+main function.Firstly,Main function runs the user gives the input and the function
+call itself and return the boolean value true or false.

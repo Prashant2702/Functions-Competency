@@ -1,0 +1,7 @@
+...Pascal Triangle Problem...
+In this program we are going to print out the pascal traingle using the functions.
+As in the pascal triangle every number is equal to its binomial coefficients
+which is nCr.we can done this by defining afunction named as fact which is used to print out 
+the factorial of the number or nCr.
+we are using the twofor loops in the main function in which first for loop is for the rows and the scond
+one is for the columns.

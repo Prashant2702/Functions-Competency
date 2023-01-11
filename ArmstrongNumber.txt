@@ -1,0 +1,5 @@
+...Armstrong Number...
+Here in  this  program we are going to check if a given number is a armstrong number or not.
+As the armstrong number are the numbers in which the sum of the cubes of the 
+digits of the number is equal to the same  number then the number is a armstrong number.\\
+We can done this with the help of the while and if else loops.

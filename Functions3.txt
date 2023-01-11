@@ -1,0 +1,5 @@
+...Factorial of a Number...
+In this program we are going to find the factorial of a number using the functions..
+Here,we define the function named as fact() in which factorial of a given number
+can be find.Here,we use the for loop for the running this code contionously upto
+1.

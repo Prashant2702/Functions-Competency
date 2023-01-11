@@ -1,0 +1,6 @@
+...Calculationg the nCr...
+In this program we are  going to calculate the nCr of a given number.we acn find out the
+nCr using the same logic of Factorial using the functions as :
+nCr=n!/(n-r)!r!.
+So we can done this by defining a function named as fact which is used to find 
+the  values for n!,r! and the n-r!.In this we used the for loop.

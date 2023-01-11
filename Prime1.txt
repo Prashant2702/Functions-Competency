@@ -1,0 +1,4 @@
+...Prime Number...
+In this program we are going to find the number is prime or not.Here,in this 
+program we use for and if else loop.Here,we intialize and declare a bool named
+as flag.

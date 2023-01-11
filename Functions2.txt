@@ -1,0 +1,5 @@
+...Fibonacci Series using the functions...
+In this program,we are going to print the fibonacci series upto a number n.
+Here,we call a function named as fib() int the main function.as firstly the main function runs
+and then it will call the function which helps to print out the fibonacci series.
+In this program we used the for loop for finding the fibonacci series.
